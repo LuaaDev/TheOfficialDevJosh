@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Luaa
 
-#🔭 I’m currently working on my Games am other things
+### 🔭 I’m currently working on my Games am other things
 
-#Tools
+### Tools
 
 <!--
 **TheOfficialDevJosh/TheOfficialDevJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
