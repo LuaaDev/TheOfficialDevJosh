@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <h3 align="center">- 🔭 I’m currently working on <b>Not Much</b></h3>
-<h3 align="center">- 📫 Reach me on discord : Coltz#0004</h3>
-<h3 align="center">- 📋 Just released: Discord Bot Base</h3>
+<h3 align="center">- 📋 Just released: Roblox-Realism</h3>
 
 <hr>
 <h3 align="center">Tools</h3>
@@ -10,5 +9,5 @@
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iColtz&show_icons=true&theme=dracula" alt="iColtz" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iColtz&show_icons=true&theme=dracula&layout=compact" alt="iColtz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheOfficialDevJosh&show_icons=true&theme=dracula" alt="TheOfficialDevJosh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheOfficialDevJosh&show_icons=true&theme=dracula&layout=compact" alt="TheOfficialDevJosh" /></p>
